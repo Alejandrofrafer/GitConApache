@@ -41,6 +41,8 @@ public class Votacion {
     public String toString(){
         return "Votacion (nombre=" + nombre + ", votos=" + votos + ")";
     }
-    
-    
+    //cambios
+    public static void main(String[] args) {
+        System.out.println("Hola haciendo cambios");
+    }
 }
